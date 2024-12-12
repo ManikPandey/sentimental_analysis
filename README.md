@@ -19,5 +19,5 @@ This repository contains a sentiment analysis project built using machine learni
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ManikPandey/Sentiment-Analysis_LSTM_LR_BNB_on_twitter.git
+   git clone https://github.com/ManikPandey/sentimental_analysis_on_twitter_using_BNB_LR_LSTM.git
 #
